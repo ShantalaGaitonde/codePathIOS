@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-[Video Walkthrough](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHh3M2lzM2E1bmViOTBnYjI1bm44cHFmdmdubzJlaGl2NWxyanB4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jKM0o6Hp9WYidsIa0U/giphy.gif)
+[Video Walkthrough](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW52bmV5MWFoYjl3NGdrdTczeTcyNnE1ODhtZ2NnZzQ3dHg2amdydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K1Xe5FDIQi4QYkMLQy/giphy.gif)
 
 GIF created with ...  
 [Kapwing](https://www.kapwing.com/) 
