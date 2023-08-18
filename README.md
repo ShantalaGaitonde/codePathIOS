@@ -24,7 +24,18 @@ GIF created with ...
 [Kapwing](https://www.kapwing.com/) 
 
 ## App Brainstorming (Step 4)
+The list of my favorite apps are:
+1. Whatsapp
+    1. You can know if the message sent has reached the receiver by the double tick mark and also if the receiver has seen the message by   
+       the blue tick.
+    2. Different colors for the messages sent and received. 
+2. Facebook
+    1. Facebook market place where you can connect with the seller or buyer.
+    2. Birthday reminders in the notification.
 
+  App Idea:
+  I would like to build a chat application similar to whatsapp. The app should be able to send text, images and videos. 
+    
 ## Notes
 
 Describe any challenges encountered while building the app.
