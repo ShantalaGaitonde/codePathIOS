@@ -17,8 +17,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='https://www.kapwing.com/videos/64dd1a59c1dcd00018d9043e' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Video Walkthrough](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHh3M2lzM2E1bmViOTBnYjI1bm44cHFmdmdubzJlaGl2NWxyanB4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jKM0o6Hp9WYidsIa0U/giphy.gif)
 
 GIF created with ...  
 [Kapwing](https://www.kapwing.com/) 
