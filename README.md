@@ -20,7 +20,7 @@ Here's a walkthrough of implemented user stories:
 [Video Walkthrough](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZ4NzA2OW5hajUxcXRmOHIzcjU1NGE3eXdoZWJrcWkyZ3h0bG85MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GYzXMFPQHP2zEfZR2M/giphy.gif)
 
 GIF created with ...  
-[Kapwing](https://www.kapwing.com/) 
+[Gifcap](https://gifcap.dev/)
 
 ## App Brainstorming (Step 4)
 The list of my favorite apps are:
